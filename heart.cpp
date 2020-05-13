@@ -87,7 +87,7 @@ int main(int argc, char const *argv[])
   }
     else if (pil == 2) {
  
-      cout << "Thanks acaa udah mau ngejawab hehe :)\n";
+      cout << "Thanks Ceycansss udah mau ngejawab hehe :)\n";
       cout << "-------------------------------------\n";
   }
    char piL;
