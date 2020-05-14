@@ -3,6 +3,7 @@
 Install
 -
 $ pkg install clang
+
 $ pkg install nano 
 
 
